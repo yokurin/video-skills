@@ -1,0 +1,15 @@
+{
+  "name": "create-anime-lifehack",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@fal-ai/client": "^1.8.1",
+    "commander": "^14.0.2",
+    "dotenv": "^17.2.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.9.3"
+  }
+}
